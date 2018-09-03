@@ -21,5 +21,6 @@ public class Bubblesort
 				}
 			}
 		}
+		return sortedarray;
 	}
 }
